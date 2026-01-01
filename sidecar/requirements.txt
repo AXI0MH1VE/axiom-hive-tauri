@@ -1,0 +1,18 @@
+# Python Dependencies for Axiom Hive Sidecar
+# Tree-of-Thoughts AI Reasoning Engine
+
+# Graph Database
+kuzudb>=0.3.0
+
+# Graph Algorithms
+networkx>=3.0
+
+# Terminal Output Formatting
+rich>=13.0.0
+
+# TOML Configuration (Python 3.10 compatibility)
+tomli>=2.0.0; python_version < "3.11"
+
+# For Nuitka Compilation:
+# Install Nuitka separately: pip install nuitka
+# Compile with: python -m nuitka --standalone --onefile sidecar/main.py
