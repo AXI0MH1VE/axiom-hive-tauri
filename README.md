@@ -120,3 +120,12 @@
 Licensed for private, personal, offline use only. Redistribution or modification for cloud/SaaS use is strictly forbidden.
 
 ```
+
+
+---
+
+## Documentation
+
+- [PHILOSOPHY.md](docs/PHILOSOPHY.md) - Core principles, ethics, and alignment framework
+- [SECURITY.md](SECURITY.md) - Security audit, threat model, and responsible disclosure
+- [architext.md](docs/architext.md) - Technical architecture and system design
