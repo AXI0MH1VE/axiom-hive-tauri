@@ -1,0 +1,5 @@
+{
+  "name": "AxiomHive Sidecar",
+  "sha256": "PLACEHOLDER_FOR_YOUR_REAL_COMPILED_BINARY_HASH",
+  "purpose": "Nuitka-compiled Python sidecar providing deterministic meta deep search, local-only graph queries, and scientific computation. Cryptographically verified on launch."
+}
