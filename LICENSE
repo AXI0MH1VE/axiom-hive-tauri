@@ -1,0 +1,53 @@
+# Axiom Hive Proprietary License
+
+Copyright (c) 2026 Axiom Hive Engineering
+
+## Terms and Conditions
+
+### Grant of License
+
+This software and associated documentation files (the "Software") are licensed for **private, personal, and offline use only**.
+
+### Permitted Uses
+
+- Personal, non-commercial use on your own devices
+- Local deployment for individual research and development
+- Offline execution without external network dependencies
+- Source code study and modification for personal learning
+
+### Prohibited Uses
+
+**The following uses are strictly FORBIDDEN:**
+
+- ❌ Redistribution in any form (source or binary)
+- ❌ Cloud deployment or Software-as-a-Service (SaaS) offerings
+- ❌ Commercial use or monetization
+- ❌ Hosting on external servers accessible via network
+- ❌ Integration into proprietary cloud platforms
+- ❌ Sublicensing or transfer of rights
+- ❌ Use in multi-tenant environments
+- ❌ Modification for cloud/SaaS distribution
+
+### Data Sovereignty
+
+This Software is designed for **sovereign, local-first AI** execution. All data must remain on the user's device. Any deployment that transmits user data to external servers violates this license.
+
+### No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+### Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Termination
+
+This license automatically terminates if you violate any of its terms. Upon termination, you must destroy all copies of the Software.
+
+### Governing Law
+
+This license shall be governed by and construed in accordance with applicable laws regarding software licensing and intellectual property.
+
+---
+
+**For commercial licensing inquiries or partnership opportunities, please contact: [license@axiomhive.ai]**
